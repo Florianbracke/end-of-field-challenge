@@ -1,0 +1,19 @@
+table {
+    width: 319px;
+    border-collapse: collapse;
+    
+}
+
+td {
+    height: 70px;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+
+
+
+
+.language {
+    text-decoration: underline;
+}
