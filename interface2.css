@@ -1,0 +1,57 @@
+a:hover {
+    background-color: rgb(160, 212, 206);
+  }
+.navbar {
+    width: 319px;
+    height:auto;
+}  
+a {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    height: 80px;
+    
+  }
+
+  .one{
+    height: 70px;
+}
+.two{
+    height: 66px;
+}
+.three{
+    height: 67px;
+}
+.four {
+    height: 66px;
+}
+.five {
+    height: 67px;}
+.six{
+    height: 66px;
+}
+.seven {
+    height: 65px;
+   /* rgb(160, 212, 206);*/
+}
+
+.eight {
+    height: 67px;
+}
+.nine {
+    height: 67px;
+}
+.ten {
+    height: 66px;
+}
+.eleven {
+    height: 66px;
+}
+.twelve {
+    height: 67px;
+}
+.thirteen {
+    height: 117px;
+}
