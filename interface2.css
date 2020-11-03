@@ -1,21 +1,33 @@
+/*          mockup          */
+.mockup {
+    position: absolute;
+    opacity: 0.5;
+    
+}   
+
+/*          navbar settings          */
 a:hover {
     background-color: rgb(160, 212, 206);
   }
-.navbar {
-    width: 319px;
-    height:auto;
-}  
+
+
 a {
-    background-color: rgb(255, 255, 255);
+    
+    background-color: rgb(248, 147, 147);
     color: black;
     display: block;
-    padding: 12px;
+    height: 70px;
     text-decoration: none;
-    height: 80px;
     
   }
 
-  .one{
+/*          start of a-classes navbar          */
+
+.navbar {
+    width: 319px;
+    height:920px;
+}
+.one{
     height: 70px;
 }
 .two{
@@ -28,15 +40,14 @@ a {
     height: 66px;
 }
 .five {
-    height: 67px;}
+    height: 67px;
+}
 .six{
     height: 66px;
 }
 .seven {
     height: 65px;
-   /* rgb(160, 212, 206);*/
 }
-
 .eight {
     height: 67px;
 }
@@ -54,4 +65,46 @@ a {
 }
 .thirteen {
     height: 117px;
+}
+
+/* small items added to navbar */
+.number6 {
+    width: 40px;
+    height: 40px;
+    padding-left: 110px;
+    padding-top: 3px    ;
+}
+.number3 {
+    width: 30px;
+    height: 30px;
+    padding-left: 154px;
+    padding-top: 3px;
+}
+.beta {
+    width: 20px;
+    height: 20px;
+
+}
+.flag {
+    
+    width: 15px;
+    height: 10px;
+    padding-left: 2px;
+}
+.language {
+    text-decoration: underline;
+}
+.button {
+    height: 30px;
+    width: 100px;
+    align-items: flex-end;
+    font-weight: bold;
+    background-color: 	rgb(244, 247, 246);
+    border: none;
+    word-spacing: 10px;
+    margin-left: 100px;
+}
+.xbutton {
+    height: 10px;
+    width: 10px;
 }
