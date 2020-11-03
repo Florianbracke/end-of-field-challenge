@@ -31,17 +31,21 @@ a {
 /* ===========  */
 .one{
     padding-left: 30px;
-    padding-top:18px;
-    
+    padding-top: 18px;
+    text-decoration: underline;
 }
 .one_a{
     height: 70px;
     font-size: 12px;
+    
 }
 
 /* ===========  */
 .two{
-    height: 66px;
+    padding-left: 35px;
+    padding-top:23px;
+    font-weight: bolder;
+    word-spacing: 1.5px;
 }
 .two_a{
     height: 66px;
@@ -49,7 +53,9 @@ a {
 
 /* ===========  */
 .three {
-
+    padding-left: 35px;
+    padding-top:23px;
+    font-weight: bolder;
 }
 .three_a{
     height: 67px;
@@ -57,7 +63,9 @@ a {
 
 /* ===========  */
 .four{
-
+    padding-left: 35px;
+    padding-top:23px;
+    font-weight: bolder;
 }
 .four_a {
     height: 66px;
@@ -65,7 +73,9 @@ a {
 
 /* ===========  */
 .five{
-
+    padding-left: 35px;
+    padding-top:24px;
+    font-weight: bolder;
 }
 .five_a {
     height: 67px;
@@ -73,7 +83,9 @@ a {
 
 /* ===========  */
 .six{
-
+    padding-left: 35px;
+    padding-top:24px;
+    font-weight: bolder;
 }
 .six_a{
     height: 66px;
@@ -81,7 +93,10 @@ a {
 
 /* ===========  */
 .seven{
-
+    font-weight: bolder;
+    padding-left: 35px;
+    padding-top: 18px;
+    
 }
 .seven_a {
     height: 65px;
@@ -89,7 +104,9 @@ a {
 
 /* ===========  */
 .eight{
-
+    padding-left: 35px;
+    padding-top: 7px;
+    font-weight: bolder;
 }
 .eight_a {
     height: 67px;
@@ -97,7 +114,11 @@ a {
 
 /* ===========  */
 .nine{
-
+    padding-left: 36px;
+    padding-top: 0  px;
+    font-weight: bolder;
+    height: 80px;
+    width: 300px;
 }
 .nine_a {
     height: 67px;
@@ -105,7 +126,9 @@ a {
 
 /* ===========  */
 .ten{
-
+    padding-left: 35px;
+    padding-top: 25px;
+    font-weight: bolder;
 }
 .ten_a {
     height: 66px;
@@ -113,7 +136,9 @@ a {
 
 /* ===========  */
 .eleven{
-
+    padding-left: 35px;
+    padding-top:25px;
+    font-weight: bolder;
 }
 .eleven_a {
     height: 66px;
@@ -121,7 +146,9 @@ a {
 
 /* ===========  */
 .twelve {
-
+    padding-left: 35px;
+    padding-top:25px;
+    font-weight: bolder;
 }
 .twelve_a {
     height: 67px;   
@@ -129,7 +156,10 @@ a {
 
 /* =========== */
 .thirteen {
-
+    padding-left: 35px;
+    padding-top:25px;
+    font-weight: bolder;
+    
 }
 .thirteen_a {
     height: 117px;
@@ -139,25 +169,26 @@ a {
 
 /* small items added to navbar */
 .number6 {
-    width: 40px;
-    height: 40px;
-    padding-left: 110px;
-    padding-top: 3px;
+    width: 28px;
+    height: 28px;
+    padding-left: 65px;
+    padding-top: 5px;
 }
 .number3 {
     width: 30px;
     height: 30px;
-    padding-left: 154px;
-    padding-top: 3px;
+    padding-left: 124px;
+    padding-top: 12px;
 }
 .beta {
-    width: 20px;
-    height: 20px;
+    width: 41px;
+    height: 22px;
+    
 
 }
 .flag {
     
-    width: 20px;
+    width: 21px;
     height: 13px;
     padding-left: 2px;
 }
@@ -180,4 +211,10 @@ a {
     height: 18px;
     width: 18px;
     
+}
+
+.greytext {
+    padding-top: 11px;
+    padding-left: 35px;
+    font-size: 17px;
 }
