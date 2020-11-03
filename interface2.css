@@ -1,19 +1,18 @@
-/*          mockup          */
+/*          mockup          
 .mockup {
     position: absolute;
-    opacity: 0.5;
-    
-}   
+    opacity: 0.5;*/
+     
 
 /*          navbar settings          */
 a:hover {
-    background-color: rgb(160, 212, 206);
+    background-color: 	rgb(160, 212, 206)  ;
   }
 
 
 a {
     
-    background-color: rgb(248, 147, 147);
+    background-color: 	rgb(244, 247, 246);
     color: black;
     display: block;
     text-decoration: none;
@@ -32,7 +31,7 @@ a {
 .one{
     padding-left: 30px;
     padding-top: 18px;
-    text-decoration: underline;
+    
 }
 .one_a{
     height: 70px;
@@ -207,6 +206,11 @@ a {
     font-size: 12px;
     text-align: center;
 }
+
+.button:hover {
+    background-color: #e0d4d4; 
+    color: white;}
+
 .xbutton {
     height: 18px;
     width: 18px;
@@ -217,4 +221,5 @@ a {
     padding-top: 11px;
     padding-left: 35px;
     font-size: 17px;
+    color:rgb(193, 197, 197);
 }
